@@ -1,0 +1,94 @@
+{
+  "electronicItem" : [ {
+    "eid" : 1,
+    "productname" : "Realme",
+    "productcost" : 60000.0,
+    "productquantity" : 67
+  }, {
+    "eid" : 2,
+    "productname" : "SmartTv",
+    "productcost" : 20000.0,
+    "productquantity" : 50
+  }, {
+    "eid" : 3,
+    "productname" : "Refrigerator",
+    "productcost" : 30000.0,
+    "productquantity" : 52
+  }, {
+    "eid" : 4,
+    "productname" : "Electricvehicle",
+    "productcost" : 80000.0,
+    "productquantity" : 23
+  }, {
+    "eid" : 5,
+    "productname" : "Realme mac book",
+    "productcost" : 90000.0,
+    "productquantity" : 40
+  }, {
+    "eid" : 6,
+    "productname" : "Telivision",
+    "productcost" : 40000.0,
+    "productquantity" : 7
+  }, {
+    "eid" : 7,
+    "productname" : "SmartTv",
+    "productcost" : 20000.0,
+    "productquantity" : 50
+  }, {
+    "eid" : 8,
+    "productname" : "Washingmachine",
+    "productcost" : 70000.0,
+    "productquantity" : 5
+  }, {
+    "eid" : 9,
+    "productname" : "Headset",
+    "productcost" : 8000.0,
+    "productquantity" : 23
+  }, {
+    "eid" : 10,
+    "productname" : "Realme",
+    "productcost" : 90000.0,
+    "productquantity" : 40
+  } ],
+  "electronicCategory" : [ {
+    "cid" : 1,
+    "ecategory" : "Mobile",
+    "emodel" : "C51"
+  }, {
+    "cid" : 2,
+    "ecategory" : "Appliance",
+    "emodel" : "MoteT"
+  }, {
+    "cid" : 3,
+    "ecategory" : "Svmsung",
+    "emodel" : "Ht-564"
+  }, {
+    "cid" : 4,
+    "ecategory" : "Bike",
+    "emodel" : "All-UV"
+  }, {
+    "cid" : 5,
+    "ecategory" : "Laptop",
+    "emodel" : "I-5,11th G"
+  }, {
+    "cid" : 6,
+    "ecategory" : "ABC",
+    "emodel" : "HJI"
+  }, {
+    "cid" : 7,
+    "ecategory" : "Appliance",
+    "emodel" : "MoteT"
+  }, {
+    "cid" : 8,
+    "ecategory" : "Svmsung",
+    "emodel" : "Ht-564"
+  }, {
+    "cid" : 9,
+    "ecategory" : "Ear buds",
+    "emodel" : "XYR"
+  }, {
+    "cid" : 10,
+    "ecategory" : "Mobile",
+    "emodel" : "C51"
+  } ]
+}

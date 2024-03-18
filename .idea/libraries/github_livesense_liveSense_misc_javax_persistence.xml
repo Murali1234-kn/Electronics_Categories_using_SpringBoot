@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="github.livesense.liveSense.misc.javax.persistence" type="repository">
+    <properties maven-id="com.github.livesense:org.liveSense.misc.javax.persistence:1.0.5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/livesense/org.liveSense.misc.javax.persistence/1.0.5/org.liveSense.misc.javax.persistence-1.0.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/persistence/persistence-api/1.0/persistence-api-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
